@@ -10,16 +10,16 @@
 ## Screenshots
 
 -   List command
-    ![List command screenshot](https://monosnap.com/file/s6ItubEIBVmVYIQi5vIJcnVst2TcLb)
+    ![List command screenshot](https://api.monosnap.com/file/download?id=s6ItubEIBVmVYIQi5vIJcnVst2TcLb)
 
 -   Get command
-    ![Get command screenshot](https://monosnap.com/file/i89p63REcM0hStv6qMIcX5UY4OXUCI)
+    ![Get command screenshot](https://api.monosnap.com/file/download?id=i89p63REcM0hStv6qMIcX5UY4OXUCI)
 
 -   Add command
-    ![Add command screenshot](https://monosnap.com/file/dnt48sWhOy6HIMOslLQ6VBfucdcmNX)
+    ![Add command screenshot](https://api.monosnap.com/file/download?id=dnt48sWhOy6HIMOslLQ6VBfucdcmNX)
 
 -   Remove command
-    ![Remove command screenshot](https://monosnap.com/file/Qukjnf7qYkED9d9y4qaoiaz6ebQiRB)
+    ![Remove command screenshot](https://api.monosnap.com/file/download?id=Qukjnf7qYkED9d9y4qaoiaz6ebQiRB)
 
 ## Author
 
