@@ -19,7 +19,7 @@
     ![Add command screenshot](https://d3dehtdmp2rwcw.cloudfront.net/ms_599691/kA6F3BBp2bKsc8LLSDqLSZmqrQL2vu/add-command.png?Expires=1693062000&Signature=uF7gKuUajRDMk7CVZy~XuOGJypF2T9iiTH1xfQw~rF04rMIZHHHWL9qHatV5V7x9z2sdi5l2AOqjbn2ygDHtpGY~PHNM4aAD49X7VP0BALjWTclKrEErcHv~Exh0rF-F8dt4eJOHDVBhBT9nP16E1eTSz5L6DLJ7DYK0vHIOGb-LhnerTLRtsfmelq3sITS1fwFpS6BoecrrwsmAiaG3IuIEg8s4FM9hDjT~5Rivq5~si~NrKtRf8epispW3lBpDel28fiy34iBYY~H0aYHasu0IWJ3tjBqrp5HUF5W5oudfd9j~j67gEDoxJZ0p7hAuUYWyhklcIYRu4w8j9hpOiQ__&Key-Pair-Id=APKAJBCGYQYURKHBGCOA)
 
 -   Remove command
-    <img src='https://api.monosnap.com/file/download?id=Qukjnf7qYkED9d9y4qaoiaz6ebQiRB'></img>
+    <img src='https://d3dehtdmp2rwcw.cloudfront.net/ms_599691/clU7sNVlNMVCTO14vbf9ntLMexKhB1/remove-command.png?Expires=1693074600&Signature=jJCIyu5VzFd289dmE216vCVHn6e2Uqar7a4EtFfkyzkwm2zAlY19vLLC6LHv975JpiqHtpFNYrIwxuXcd8gv39TSwJC~kfN-N2-PtIlOocUNXhhgJRQ99LT2nl~5OdLILKq79fV7phSt62JiaXlTfUmC~FzZoPRXlmVLc-a~294ew1y3W9VNctV3kHDSzrOTGIhzgTgZ0g3jTbNDZl~WNalmr1yjr1YylBgqcg2I~IfOoRvdptKjTiQGN~kwsij5lbdSjICuHL7RJPv2PQkOp3uJuCYDhoUg9q3V4BHRmYYm4Sjsb21tcAlXjVkgbdEFVH7QGeydoZsUaP4L1iFcIQ__&Key-Pair-Id=APKAJBCGYQYURKHBGCOA'></img>
 
 ## Author
 
